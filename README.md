@@ -8,9 +8,6 @@ SUBMITTED IN FULFILLMENT FOR SUBMISSION
 OF
 Skill Development Lab
 
-SUBMITTED BY
-Vivek Yadav TE B 72
-
 DEPARTMENT OF COMPUTER ENGINEERING
 Sinhgad Institute of Technology, Kusgaon, Lonavala
 Savitribai Phule Pune University
